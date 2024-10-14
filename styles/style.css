@@ -136,4 +136,25 @@ main section{
 .resume-container
 {
     display: flex;
+    gap: 50px;
 }
+.resume-item-info, .resume-item-description{
+    color: #757575;
+}
+.resume-item-info{
+    font-size: 25px;
+}
+.resume-item-description{
+    font-size: 20px;
+}
+.resume-container hr{
+    margin: 25px;
+}
+.resume-column-title{
+    padding-bottom: 14px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 45px;
+}
+
