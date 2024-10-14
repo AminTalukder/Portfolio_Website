@@ -84,6 +84,9 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+main section{
+    margin-top: 130px;
+}
 .about{
     padding: 100px;
     border-radius: 10px;
@@ -113,6 +116,24 @@ main{
 {
     padding: 0px 50px;
 }
-#what_i_do{
-    padding-top: 20px;
+
+.skills-container
+{
+    display: flex;
+    
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
+.resume-column-title
+{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.resume-container
+{
+    display: flex;
 }
