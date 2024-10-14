@@ -105,3 +105,14 @@ main{
     display: flex;
     justify-content: space-around;
 }
+.about-info{
+    text-align: center;
+}
+
+#section-description_what-i-do
+{
+    padding: 0px 50px;
+}
+#what_i_do{
+    padding-top: 20px;
+}
